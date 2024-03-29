@@ -1,0 +1,10 @@
+
+
+.link{
+  color: rgb(128, 39, 39);
+  display:inline-flex;
+  text-decoration: none;
+  align-items: flex-end;
+  padding: 30px;
+  padding-left: 100px;
+}
